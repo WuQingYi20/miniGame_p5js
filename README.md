@@ -1,6 +1,6 @@
 # Dodge the Asteroids! 🚀💫
 
-![Game Screenshot](https://github.com/WuQingYi20/miniGame_p5js/blob/main/spaceship_obstacles.js)
+![Game Screenshot](https://github.com/WuQingYi20/miniGame_p5js/blob/main/screenshot.png)
 
 ## Table of Contents
 
@@ -20,8 +20,6 @@
 - **Power-Ups**: Catch falling power-ups for special abilities.
 - **High Score Tracker**: Keep track of your highest score.
 - **Visually Engaging**: Enhanced graphics, including a starry background and a spaceship trail.
-
-![Feature Screenshot](your-feature-screenshot-link-here)
 
 ## How to Play
 
