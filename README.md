@@ -1,6 +1,6 @@
 # Dodge the Asteroids! 🚀💫
 
-![Game Screenshot](your-game-screenshot-link-here)
+![Game Screenshot](https://github.com/WuQingYi20/miniGame_p5js/blob/main/spaceship_obstacles.js)
 
 ## Table of Contents
 
